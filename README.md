@@ -8,4 +8,4 @@ Well, if u found it useful to u, I will be very graceful that u cite TBtool in u
 https://github.com/CJ-Chen/TBtools    
 ## Dowload
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
-## Current Version No.0.09999991
+## Current Version No.0.09999992
