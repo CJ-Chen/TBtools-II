@@ -12,4 +12,4 @@ https://github.com/CJ-Chen/TBtools
 ## Dowload
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
 ## Current Version No.0.09999994
-## sci-hub available address sci-hub.cc
+## sci-hub available address sci-hub.bz
