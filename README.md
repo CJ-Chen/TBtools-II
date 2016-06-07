@@ -1,7 +1,5 @@
 ##
-## Something bad happened to v0.1 which is caused by some functions of jvm is not supported in jre 1.6; 
-## Thus, please use jre1.8.
-## Sorry for these. And I will fix these problems soon. --CJ 20160607
+## FFFFFFFFFFFixed. --CJ 20160607
 ##
 ## Introduction
 TBtools is a Toolset that was written by CJ-Chen for wet-lab biologists.  
