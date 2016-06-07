@@ -1,3 +1,8 @@
+##
+## Something bad happen to v0.1 which is caused by some functions of jvm is not supported in jre 1.6; 
+## Thus, please use jre1.8.
+## Sorry for these. And I will fix these programs soon. --CJ 20160607
+##
 ## Introduction
 TBtools is a Toolset that was written by CJ-Chen for wet-lab biologists.  
 It can run in all Operating system including Mac, Linux, Windows, which have [Java run time environment higher than 1.6](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).     
@@ -11,5 +16,5 @@ Kun Lu from Southwest University
 https://github.com/CJ-Chen/TBtools    
 ## Dowload
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
-## Current Version No.0.1
+## Current Version No.0.11
 ## sci-hub available address sci-hub.bz
