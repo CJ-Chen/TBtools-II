@@ -1,5 +1,5 @@
 ##
-## FFFFFFFFFFFixed. --CJ 20160607
+## Doing Chinese localization of some commonly used tools. --CJ 20160609
 ##
 ## Introduction
 TBtools is a Toolset that was written by CJ-Chen for wet-lab biologists.  
@@ -14,5 +14,5 @@ Kun Lu from Southwest University
 https://github.com/CJ-Chen/TBtools    
 ## Dowload
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
-## Current Version No.0.13
+## Current Version No.0.14
 ## sci-hub available address sci-hub.bz
