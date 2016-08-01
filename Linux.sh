@@ -9,4 +9,4 @@ prefix=`dirname $(readlink $0 || echo $0)`
 exec java -Xmx4000m \
 	-Dapple.laf.useScreenMenuBar=true \
 	-Djava.net.preferIPv4Stack=true \
-	-jar "$prefix"/bin/TBtools_v0.295.jar "$@"
+	-jar "$prefix"/bin/TBtools_v0.296.jar "$@"
