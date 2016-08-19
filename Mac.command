@@ -13,4 +13,4 @@ exec java -Xmx4000m \
     -Xdock:name="TBtools" \
 	-Dapple.laf.useScreenMenuBar=true \
 	-Djava.net.preferIPv4Stack=true \
-	-jar "$prefix"/TBtools_v0.35.jar "$@"
+	-jar "$prefix"/TBtools_v0.36.jar "$@"
