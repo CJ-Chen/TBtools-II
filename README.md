@@ -17,5 +17,5 @@ Kun Lu from Southwest University
 https://github.com/CJ-Chen/TBtools    
 ## Dowload
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
-## Current Version No.0.37
+## Current Version No.0.39
 ## sci-hub available address sci-hub.bz
