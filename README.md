@@ -5,11 +5,11 @@ Both command line usages and GUI manipulation have been implemented.
 U can use it and distribute it freely, for researches or for commecial purpose.    
 Well, if u found it useful to u, I will be very graceful that u cite TBtool in u paper...    
 ## List of Supporters
-Hao Chen from Hunan Agricultural University
-Kun Lu from Southwest University
+Hao Chen from Hunan Agricultural University  
+Kun Lu from Southwest University  
 ## Cite
 https://github.com/CJ-Chen/TBtools    
 ## Dowload
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
-## Current Version No.0.399
+## Current Version No.0.46
 ## sci-hub available address sci-hub.bz
