@@ -126,7 +126,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 
 # How to Cite TBtools
 
-​	<u>..........</u> analysis was performed using the OmicShare toolshttps://github.com/CJ-Chen/TBtools    
+​	<u>..........</u> analysis was performed using the TBtools(https://github.com/CJ-Chen/TBtools)
 
 
 
