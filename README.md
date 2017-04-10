@@ -127,7 +127,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 
 ## How to Cite TBtools
 
-​	<u>..........</u> analysis was performed using the TBtools(https://github.com/CJ-Chen/TBtools)
+​	<u>XXXXXXXXX</u> analysis was performed using the TBtools(https://github.com/CJ-Chen/TBtools)
 
 
 
@@ -137,7 +137,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 
 
 
-## Current Version No.0.4998
+## Current Version No.0.49991
 
 
 
