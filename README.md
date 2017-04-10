@@ -8,7 +8,7 @@
 
 
 
-​	Up to now, it contains functions more than that listed <u>HERE</u>:
+​	Up to now, it contains functions more than that listed HERE:
 
 ------
 
