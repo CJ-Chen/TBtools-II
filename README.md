@@ -13,97 +13,97 @@
 
 序列操作工具集，Sequence Toolkits
 ​	
-​	a. **Fasta**序列（含区段）提取，Amazing Fasta Extractor、Fasta Extractor和Fasta Subseq
+​	* **Fasta**序列（含区段）提取，Amazing Fasta Extractor、Fasta Extractor和Fasta Subseq
 ​	
-​	b. **Fasta**序列合并和分割，Fasta Merge and Split
+​	* **Fasta**序列合并和分割，Fasta Merge and Split
 ​	
-​	c. **序列格式化**（序列反向、互补和按指定行宽分行），Sequence Manipulator
+​	* **序列格式化**（序列反向、互补和按指定行宽分行），Sequence Manipulator
 ​	
-​	d. **NCBI**序列批量下载，NCBI Seq DownLoader
+​	* **NCBI**序列批量下载，NCBI Seq DownLoader
 ​	
-​	e. **cDNA**序列完成开放阅读框预测，Get Complete ORF
+​	* **cDNA**序列完成开放阅读框预测，Get Complete ORF
 ​	
-​	f. **序列库中引物特异性检测**，Check Primers
+​	* **序列库中引物特异性检测**，Check Primers
 ​	
-​	g. **gff3/gtf**序列提取，Gtf/Gff3 Sequences Extractor
+​	* **gff3/gtf**序列提取，Gtf/Gff3 Sequences Extractor
 ​	
 Blast界面化工具集，Blast
 ​	
-​	a. **调用NCBI API**进行远程Blast，Remote Blast
+​	* **调用NCBI API**进行远程Blast，Remote Blast
 ​	
-​	b. **少量序列Blast比对到大序列库文件，Auto Blast SeveralSequences To a Big File
+​	* **少量序列Blast比对到大序列库文件，Auto Blast SeveralSequences To a Big File
 ​	
-​	c. **少量序列比对到少量序列**，Auto Blast TwoSequence Sets
+​	* **少量序列比对到少量序列**，Auto Blast TwoSequence Sets
 ​	
-​	d. **大序列库文件比对到大序列库文件**，Auto Blast TwoSequence Sets -Big File-
+​	* **大序列库文件比对到大序列库文件**，Auto Blast TwoSequence Sets -Big File-
 ​	
-​	e. **序列比对到Fastq文件**，Blast Several Seq ToFastQ
+​	* **序列比对到Fastq文件**，Blast Several Seq ToFastQ
 ​	
-​	f. **互惠Blast**（用于不同序列库ID映射），Reciprocal Blast
+​	* **互惠Blast**（用于不同序列库ID映射），Reciprocal Blast
 ​	
-​	g. **序列比对结果区段映射图绘制**，Blast XML AlignmentShower
+​	* **序列比对结果区段映射图绘制**，Blast XML AlignmentShower
 ​	
-​	h. **序列比对结果点阵图绘制**，Blast XMLDotplot
+​	* **序列比对结果点阵图绘制**，Blast XMLDotplot
 ​	
-​	i. **序列比对结果堆叠图绘制**，Blast XMLPileup Grapher
+​	* **序列比对结果堆叠图绘制**，Blast XMLPileup Grapher
 ​	
-​	j. **BlastXML结果转换为TBtools比对结果表格**，TranFormat Blast .xml to TBtools.table
+​	* **BlastXML结果转换为TBtools比对结果表格**，TranFormat Blast .xml to TBtools.table
 ​	
-​	k. **BlastXML结果转换为Blast表格结果**，TranFormat Blast .xml to Blast Table
+​	* **BlastXML结果转换为Blast表格结果**，TranFormat Blast .xml to Blast Table
 ​	
-​	l. **基于测序数据的电子克隆**，e-GenomeWalkingor e-Race
+​	* **基于测序数据的电子克隆**，e-GenomeWalkingor e-Race
 ​	
-Gene Ontology和KEGG工具集，GO and KEGG
+Gene*ntology和KEGG工具集，GO and KEGG
 ​	
-​	a. **GO注释**，GO Anotation
+​	* **GO注释**，GO Anotation
 ​	
-​	b. **GO富集**，GO Enrichment
+​	* **GO富集**，GO Enrichment
 ​	
-​	c. **GO层级统计和绘制**，GO Level Counter
+​	* **GO层级统计和绘制**，GO Level Counter
 ​	
-​	d. **GO层级比较**，GO Level Compare
+​	* **GO层级比较**，GO Level Compare
 ​	
-​	e. **GO注释解析**，GO Term Parser
+​	* **GO注释解析**，GO Term Parser
 ​	
-​	f. **GO注释转换为BiNGO输入结果**，Prepare GO Annotaiton For BinGO in cytoscape
+​	* **GO注释转换为BiNGO输入结果**，Prepare GO Annotaiton For BinGO in cytoscape
 ​	
-​	g. **KEGG通路富集工具*，KEGG Enrichment Analysis
+​	* **KEGG通路富集工具*，KEGG Enrichment Analysis
 ​	
-​	h. **KEGG****通路差异表达基因描图工具**，KEGG Pathway Map Drawer
+​	* **KEGG****通路差异表达基因描图工具**，KEGG Pathway Map Drawer
 ​	
-其他工具集，Others
+其他*具集，Others
 ​	
-​	a. **取色器**，Color Picker
+​	* **取色器**，Color Picker
 ​	
-​	b. **表格提取（行筛选）**，Table IDManipulator
+​	* **表格提取（行筛选）**，Table IDManipulator
 ​	
-​	c. **表格列操作（列排序和保留）**，Table ColumnManipulator
+​	* **表格列操作（列排序和保留）**，Table ColumnManipulator
 ​	
-​	d. **大文本极速查看（支持.gz压缩格式）**，Big Text Viewer
+​	* **大文本极速查看（支持.gz压缩格式）**，Big Text Viewer
 ​	
-​	e. **大表格极速查看（支持.gz压缩格式）**，Big Table Viewer
+​	* **大表格极速查看（支持.gz压缩格式）**，Big Table Viewer
 ​	
-​	f. **基于标识符号提取文本区段**，Text Block Extractor
+​	* **基于标识符号提取文本区段**，Text Block Extractor
 ​	
-​	g. **表达量快速查看/比较**，Expression Shower
+​	* **表达量快速查看/比较**，Expression Shower
 ​	
-​	h. **读段计数做RPKM/FPKM/TPM标准化**，Expression Calculator (RPKM/FPKM/TPM)
+​	* **读段计数做RPKM/FPKM/TPM标准化**，Expression Calculator (RPKM/FPKM/TPM)
 ​	
-​	i.  **2~6组可交互韦恩图绘制**，Wonderful Venn (Up to Six Sets)
+​	*  **2~6组可交互韦恩图绘制**，Wonderful Venn (Up to Six Sets)
 ​	
-​	j. **基于序列在染色体上展示基因位置**，Map Genes OnGenome From Sequence Files
+​	* **基于序列在染色体上展示基因位置**，Map Genes OnGenome From Sequence Files
 ​	
-​	k. **基于坐标在染色体上展示基因位置**，Map Genes OnGenome From Position Info Files
+​	* **基于坐标在染色体上展示基因位置**，Map Genes OnGenome From Position Info Files
 ​	
-​	l. **基因组共线性分析结果可视化**，Dual SystenyPlotter for MCscanX
+​	* **基因组共线性分析结果可视化**，Dual SystenyPlotter for MCscanX
 ​	
-About工具，About
+Abou*具，About
 ​	
-​	a. **默认界面**（可直接拖拽.png/.jpg图片，输出Kmeans聚类色卡），About TBtools
+​	* **默认界面**（可直接拖拽.png/.jpg图片，输出Kmeans聚类色卡），About TBtools
 ​	
-​	b. **debug对话框**，Debug Dialog
+​	* **debug对话框**，Debug Dialog
 ​	
-​	c. **调整TBtools初始化内存**，Resize JVMmemory
+​	* **调整TBtools初始化内存**，Resize JVMmemory
 ​	
 -----
 
