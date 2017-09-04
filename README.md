@@ -106,7 +106,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 
 
 
-## Current Version No.0.49995
+## Current Version No.0.53
 
 
 
