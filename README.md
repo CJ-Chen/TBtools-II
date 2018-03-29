@@ -96,7 +96,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 
 ## How to Cite TBtools
 
-​	<u>XXXXXXXXX</u> analysis was performed using the TBtools(https://github.com/CJ-Chen/TBtools)
+​	[TBtools, a Toolkit for Biologists integrating various HTS-data handling tools with a user-friendly interface](https://www.biorxiv.org/content/early/2018/03/27/289660)
 
 
 
