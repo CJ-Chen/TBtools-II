@@ -110,4 +110,4 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 
 
 
-## sci-hub available address sci-hub.bz
+## Ad Link:https://www.jianshu.com/p/fa730a4a5692
