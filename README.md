@@ -113,4 +113,4 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 ## Current Version No.0.653
 
 
-## Ad Link:https://www.jianshu.com/p/fa730a4a5692
+## Ad Link:https://mp.weixin.qq.com/s/zOTAtlRM5PC8SnzE90-Vqg
