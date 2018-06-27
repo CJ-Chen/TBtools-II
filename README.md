@@ -110,7 +110,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
 
 
-## Current Version No.0.653
+## Current Version No.0.661
 
 
-## Ad Link:https://mp.weixin.qq.com/s/zOTAtlRM5PC8SnzE90-Vqg
+## Ad Link:https://ke.qq.com/course/311697?tuin=72ed3eb
