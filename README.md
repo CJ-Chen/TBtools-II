@@ -1,9 +1,16 @@
 ## Please Note:
 
-TBtools is ONLY freely available for academic research. And for commercial usage, please me (ccj0410@gmail.com)
+**TBtools** is **ONLY** freely available for academic research. And for **commercial usage**, please me (ccj0410@gmail.com)
+
+
 TBtools对于学术研究以及学术培训（由学术机构开设的公益性质且不收费的培训）是免费的。对于其商业用途，请通过我的邮箱联系我。
-Use TBtools for fee-based Training with is included in "Commercial usage".
+
+
+Use TBtools for **fee-based Training** is included in "Commercial usage".
+
+
 商业用途包括在收费的培训中使用TBtools。
+
 
 ## Introduction
 
@@ -120,4 +127,4 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 ## Current Version No.0.664432
 
 
-## Ad Link:https://ke.qq.com/course/311697?tuin=72ed3eb
+## Ad Link:https://github.com/CJ-Chen/TBtools
