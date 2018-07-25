@@ -117,7 +117,7 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
 
 
-## Current Version No.0.661
+## Current Version No.0.664432
 
 
 ## Ad Link:https://ke.qq.com/course/311697?tuin=72ed3eb
