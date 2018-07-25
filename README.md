@@ -1,6 +1,6 @@
 ## Please Note:
 
-**TBtools** is **ONLY** freely available for academic research. And for **commercial usage**, please me (ccj0410@gmail.com)
+**TBtools** is **ONLY** freely available for academic research. And for **commercial usage**, please contact me (ccj0410@gmail.com)
 
 
 TBtools对于学术研究以及学术培训（由学术机构开设的公益性质且不收费的培训）是免费的。对于其商业用途，请通过我的邮箱联系我。
