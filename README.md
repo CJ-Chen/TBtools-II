@@ -127,5 +127,5 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 ## Current Version No.0.664432
 
 
-## Ad Link:https://github.com/CJ-Chen/TBtools
+## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123271&idx=1&sn=f7151ea506a57957cbc4ca86a118dab1&chksm=8cd4c84bbba3415da7c7146cf42b26b7d9a6cfc036e8d13156d9af05ea8201066e1a37e58648&token=1260026577&lang=zh_CN#rd
 ## TBtools:1001
