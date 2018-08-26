@@ -100,7 +100,7 @@ About工具，About
 
 ## Compatability
 
-​	It can run in all Operating system including Mac, Linux, Windows, which have [Java run time environment higher than 1.6](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).  Both **command line usages and GUI manipulation** have been implemented.  U can use it and distribute it **freely, for researches or for commecial purpose**. 
+​	It can run in all Operating system including Mac, Linux, Windows, which have [Java run time environment higher than 1.6](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).  Both **command line usages and GUI manipulation** have been implemented.  U can ONLY use it and distribute it **freely, for researches**. 
 Well, if u found it useful to u, I will **be very graceful that u cite TBtools** in u paper...    
 
 
@@ -127,5 +127,5 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 ## Current Version No.0.664432
 
 
-## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123271&idx=1&sn=f7151ea506a57957cbc4ca86a118dab1&chksm=8cd4c84bbba3415da7c7146cf42b26b7d9a6cfc036e8d13156d9af05ea8201066e1a37e58648&token=1260026577&lang=zh_CN#rd
+## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123281&idx=1&sn=b78fac7ebb20a2b32f5436128924e8f6&chksm=8cd4c85dbba3414bec2f8b91cfa3b7f9297543aee6f0677806e292d592d7f05e8cbe0a0811b9&token=928588041&lang=zh_CN#rd
 ## TBtools:1001
