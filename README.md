@@ -124,8 +124,8 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
 
 
-## Current Version No.0.664432
+## Current Version No.0.6644452
 
 
-## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123281&idx=1&sn=b78fac7ebb20a2b32f5436128924e8f6&chksm=8cd4c85dbba3414bec2f8b91cfa3b7f9297543aee6f0677806e292d592d7f05e8cbe0a0811b9&token=928588041&lang=zh_CN#rd
+## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123284&idx=1&sn=b0f08dbbbd5a54fc0be85765067ba9b7&chksm=8cd4c858bba3414e2f01da071546294f9b6374631e95a3baf850b6b9ba29f91265a7dfe6bd75&token=1081849421&lang=zh_CN#rd
 ## TBtools:1001
