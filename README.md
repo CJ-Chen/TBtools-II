@@ -66,7 +66,7 @@ GeneOntology和KEGG工具集，GO and KEGG
 * ​ **GO注释解析**，GO Term Parser
 * ​ **GO注释转换为BiNGO输入结果**，Prepare GO Annotaiton For BinGO in cytoscape
 * ​ **KEGG通路富集工具**，KEGG Enrichment Analysis
-* ​ **KEGG****通路差异表达基因描图工具**，KEGG Pathway Map Drawer
+* ​ **KEGG通路差异表达基因描图工具**，KEGG Pathway Map Drawer
 
 ​	
 其他工具集，Others
@@ -100,8 +100,8 @@ About工具，About
 
 ## Compatability
 
-​	It can run in all Operating system including Mac, Linux, Windows, which have [Java run time environment higher than 1.6](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).  Both **command line usages and GUI manipulation** have been implemented.  U can ONLY use it and distribute it **freely, for researches**. 
-Well, if u found it useful to u, I will **be very graceful that u cite TBtools** in u paper...    
+​	It can run in all Operating system including Mac, Linux, Windows, which have [Java run time environment higher than 1.6](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html).  Both **command line usages and GUI manipulation** have been implemented.  You can ONLY use it and distribute it **freely, for researches**. 
+Well, if you found it useful, I will **be very graceful if you cite TBtools** in your paper...    
 
 
 
@@ -124,8 +124,8 @@ Well, if u found it useful to u, I will **be very graceful that u cite TBtools**
 [Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
 
 
-## Current Version No.0.6644452
+## Current Version No.0.66444532
 
 
-## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123284&idx=1&sn=b0f08dbbbd5a54fc0be85765067ba9b7&chksm=8cd4c858bba3414e2f01da071546294f9b6374631e95a3baf850b6b9ba29f91265a7dfe6bd75&token=1081849421&lang=zh_CN#rd
+## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123287&idx=1&sn=821826d95e9f627f5459607b6d9df06d&chksm=8cd4c85bbba3414d3a3ed80300bffb4c45eb1ef3d544f2ba479c94a5a93e666b7c54bf24c2bd&token=724332008&lang=zh_CN#rd
 ## TBtools:1001
