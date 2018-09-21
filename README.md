@@ -126,6 +126,6 @@ Well, if you found it useful, I will **be very graceful if you cite TBtools** in
 
 ## Current Version No.0.66444532
 
-
-## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123287&idx=1&sn=821826d95e9f627f5459607b6d9df06d&chksm=8cd4c85bbba3414d3a3ed80300bffb4c45eb1ef3d544f2ba479c94a5a93e666b7c54bf24c2bd&token=724332008&lang=zh_CN#rd
+https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ==&mid=2651123287&idx=1&sn=821826d95e9f627f5459607b6d9df06d&chksm=8cd4c85bbba3414d3a3ed80300bffb4c45eb1ef3d544f2ba479c94a5a93e666b7c54bf24c2bd&token=724332008&lang=zh_CN#rd
+## Ad Link:
 ## TBtools:1001
