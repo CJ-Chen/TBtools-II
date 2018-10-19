@@ -520,7 +520,7 @@ All are optional.
 
 ## Dowload
 
-[Click to download the excutable .jar file](https://github.com/CJ-Chen/TBtools/archive/master.zip)
+[Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
 
 ## Current Version No.0.665
