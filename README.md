@@ -26,7 +26,11 @@ Thus, we present **TBtools (a Toolkit for Biologists integrating various biologi
 
 # A Glance of TBtools’ Functions
 
-![](https://upload-images.jianshu.io/upload_images/10518391-9d41a3e41558e033.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![](https://upload-images.jianshu.io/upload_images/10518391-edc9d8fab2dda13b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/829/format/webp)![](https://upload-images.jianshu.io/upload_images/10518391-9d41a3e41558e033.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 
 ![](https://upload-images.jianshu.io/upload_images/10518391-f4f030747db6da3c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
