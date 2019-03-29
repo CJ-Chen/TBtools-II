@@ -11,6 +11,6 @@
 prefix=`dirname $(readlink $0 || echo $0)`
 exec java -Xmx4000m \
     -Xdock:name="TBtools" \
-	-Dapple.laf.useScreenMenuBar=true \
+	-Dapple.laf.useScreenMenuBar=false \
 	-Djava.net.preferIPv4Stack=true \
 	-jar "$prefix"/TBtools_JRE1.6.jar "$@"
