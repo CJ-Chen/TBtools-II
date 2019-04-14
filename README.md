@@ -527,7 +527,7 @@ All are optional.
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
 
-## Current Version No.0.66582
+## Current Version No.0.6659
 
 ## Ad Link:http://xialab.scau.edu.cn
 ## TBtools:1001
