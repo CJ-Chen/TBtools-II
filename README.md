@@ -522,7 +522,7 @@ All are optional.
 ​	[TBtools, a Toolkit for Biologists integrating various HTS-data handling tools with a user-friendly interface](https://www.biorxiv.org/content/early/2018/03/27/289660)
 
 
-## Dowload
+## Download
 
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
