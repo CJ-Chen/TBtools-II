@@ -527,7 +527,7 @@ All are optional.
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
 
-## Current Version No.0.6668
+## Current Version No.0.6669
 
 ## Ad Link:
 ## TBtools:1001
