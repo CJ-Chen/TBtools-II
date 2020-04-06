@@ -110,7 +110,7 @@ In the main panel of TBtools, there is a main menubar and several buttons:
 
 # Usage of Key Functions
 
-Click to obtain the [** Demo Data**](ftp://118.24.17.128/TBtools%20-%20Demo%20Data/), using "uftp" as acount number and "12345678" as password.
+Click to obtain the [Demo Data](ftp://118.24.17.128/TBtools%20-%20Demo%20Data/), using "uftp" as acount number and "12345678" as password.
 
 ## Bulk Sequence Extraction
 
