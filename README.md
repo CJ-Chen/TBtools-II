@@ -529,7 +529,7 @@ All are optional.
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
 
-## Current Version No.0.6741
+## Current Version No.1.0
 ## Ad Link:
 ## TBtools:Please update to the lastest version (higher than v0.66831).
 #### Clean:Taiyuan
