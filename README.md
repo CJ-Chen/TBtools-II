@@ -531,5 +531,5 @@ All are optional.
 
 ## Current Version No.1.0
 ## Ad Link:
-## TBtools:Please update to the lastest version (higher than v0.66831).
+## TBtools:Please update to the lastest version (higher than v1.045).
 #### Clean:Taiyuan
