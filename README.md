@@ -529,7 +529,7 @@ All are optional.
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
 ## Current Version No.1.047
-## Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ%3D%3D&mid=2651124321&idx=1&sn=462c3769be5def8cbe749a808b60fc3e&scene=45#wechat_redirect
+#### Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ%3D%3D&mid=2651124321&idx=1&sn=462c3769be5def8cbe749a808b60fc3e&scene=45#wechat_redirect
 #### Ad Exempt:125.88.24.\d+
 ## Ad Exempt:United
 #### Ad Exempt:Guangzhou
