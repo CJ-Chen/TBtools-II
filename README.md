@@ -521,19 +521,13 @@ All are optional.
 
 ## How to Cite TBtools
 
-​	[TBtools, a Toolkit for Biologists integrating various HTS-data handling tools with a user-friendly interface](https://www.biorxiv.org/content/early/2018/03/27/289660)
+​	[TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30187-8)
 
 
 ## Download
 
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
-## Current Version No.1.047
-#### Ad Link:https://mp.weixin.qq.com/s?__biz=MzIwNjI0Njc1NQ%3D%3D&mid=2651124321&idx=1&sn=462c3769be5def8cbe749a808b60fc3e&scene=45#wechat_redirect
-#### Ad Exempt:125.88.24.\d+
-## Ad Exempt:United
-#### Ad Exempt:Guangzhou
-## TBtools:Please update to the lastest version (higher than v1.045).
-#### Block:Nanjing
+## Current Version No.1.053
 
 
