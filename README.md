@@ -529,7 +529,7 @@ All are optional.
 
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
-## Current Version No.1.098691
+## Current Version No.1.098693
 
 ## TBtools:Please update to the lastest version (higher than v1.068).| https://github.com/CJ-Chen/TBtools/releases
 #### Block:
