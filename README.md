@@ -1,9 +1,9 @@
 # TBtools
 
+[Click to Join in TBtools Google Groups](https://groups.google.com/g/tbtools)
+
 [For version 0.665]
 [![check in Biotreasury](https://img.shields.io/badge/Biotreasury-collected-brightgreen)](https://biotreasury.rjmart.cn/#/tool?id=17825)  
-
-[Click to Join in TBtools User Group on Telegram](https://t.me/joinchat/Q6WHOhWOlHHOkMgRGoN7nw)
 
 ![](https://upload-images.jianshu.io/upload_images/10518391-f46c6ceddab78e7f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
