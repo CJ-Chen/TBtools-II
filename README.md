@@ -2,6 +2,8 @@
 
 [Click to Join in TBtools Google Groups](https://groups.google.com/g/tbtools)
 
+[Click to Download TBtools Installers](https://github.com/CJ-Chen/TBtools/releases)
+
 [For version 0.665]
 [![check in Biotreasury](https://img.shields.io/badge/Biotreasury-collected-brightgreen)](https://biotreasury.rjmart.cn/#/tool?id=17825)  
 
@@ -12,9 +14,6 @@
 CJ ([ccj0410@gmail.com](mailto:ccj0410@gmail.com))
 
 South China Agricultural University
-
-
-
 
 
 # Overview
@@ -522,14 +521,14 @@ All are optional.
 
 ## How to Cite TBtools
 
-​	[TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30187-8)
+[TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30187-8)
 
 
 ## Download
 
 [Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
 
-## Current Version No.1.098693
+## Current Version No.1.112
 
 ## TBtools:Please update to the lastest version (higher than v1.068).| https://github.com/CJ-Chen/TBtools/releases
 #### Block:
