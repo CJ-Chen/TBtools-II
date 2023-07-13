@@ -3,7 +3,7 @@
 [Click to Join in TBtools Groups - Slack](https://join.slack.com/t/w1689288812-1ht896372/shared_invite/zt-1z3epmlva-MXKRYrZ3VJxEIsJYpmSMZw)
 
 [Click to Join in TBtools Groups - Whatsapp](https://chat.whatsapp.com/GdseST6ptYkCvWc0Y0yM70)
-![image](https://github.com/CJ-Chen/TBtools/assets/7356286/14d5021c-a5a7-4ca9-9e43-3ad687a13f68)
+![image](https://github.com/CJ-Chen/TBtools/assets/7356286/17961b0d-9e50-41dd-a82b-6003e02ca813)
 
 
 [Click to Join in TBtools Google Groups](https://groups.google.com/g/tbtools)
