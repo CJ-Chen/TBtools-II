@@ -1,4 +1,4 @@
-# TBtools
+# TBtools-II
 
 [Click to Join in TBtools Groups - Slack](https://join.slack.com/t/w1689288812-1ht896372/shared_invite/zt-1z3epmlva-MXKRYrZ3VJxEIsJYpmSMZw)
 
@@ -522,15 +522,15 @@ All are optional.
 
 
 ## How to Cite TBtools
-
-[TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data](https://www.cell.com/molecular-plant/fulltext/S1674-2052(20)30187-8)
-
+[TBtools-II: A "One for All, All for One" Bioinformatics Platform for Biological Big-data Mining](https://www.cell.com/molecular-plant/fulltext/S1674-2052(23)00281-2)
+*Note the first version of TBtools is now retired.*
+TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data
 
 ## Download
 
-[Click to download TBtools](https://github.com/CJ-Chen/TBtools/releases)
+[Click to download TBtools-II](https://github.com/CJ-Chen/TBtools/releases)
 
-## Current Version No.1.112
+## Current Version No.2.007
 
 ## TBtools:Please update to the lastest version (higher than v1.068).| https://github.com/CJ-Chen/TBtools/releases
 #### Block:
