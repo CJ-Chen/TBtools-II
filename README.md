@@ -1,4 +1,4 @@
-# TBtools-II
+![image](https://github.com/CJ-Chen/TBtools-II/assets/7356286/728b0ad6-2ad2-4b5c-b2da-50fd5af48542)# TBtools-II
 
 [Click to Join in TBtools Groups - Slack](https://join.slack.com/t/w1689288812-1ht896372/shared_invite/zt-1z3epmlva-MXKRYrZ3VJxEIsJYpmSMZw)
 
@@ -532,7 +532,7 @@ TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biolog
 
 ## Current Version No.2.007
 
-## TBtools:Please update to the lastest version (higher than v1.068).| https://github.com/CJ-Chen/TBtools/releases
+## TBtools:Please update to the lastest version 「TBtools-II」 (higher than v2.0). | https://wsc.fit/M1
 #### Block:
 #### Clean:
 
