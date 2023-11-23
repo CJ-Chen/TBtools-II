@@ -1,4 +1,4 @@
-![image](https://github.com/CJ-Chen/TBtools-II/assets/7356286/728b0ad6-2ad2-4b5c-b2da-50fd5af48542)# TBtools-II
+# TBtools-II
 
 [Click to Join in TBtools Groups - Slack](https://join.slack.com/t/w1689288812-1ht896372/shared_invite/zt-1z3epmlva-MXKRYrZ3VJxEIsJYpmSMZw)
 
