@@ -6,6 +6,13 @@
 
 [Click to Download TBtools Installers](https://github.com/CJ-Chen/TBtools/releases)
 
+# How to cite
+Chen C., Wu Y., Li J., Wang X., Zeng Z., Xu J., Liu Y., Feng J., Chen H., He Y., and Xia R. (2023). 
+TBtools-II: A "one for all, all for one" bioinformatics platform for biological big-data mining. Mol. Plant. 16, 1733–1742.
+[Click to view the article.](https://www.cell.com/molecular-plant/fulltext/S1674-2052(23)00281-2)
+
+# A Simple Guidance
+
 [For version 0.665]
 [![check in Biotreasury](https://img.shields.io/badge/Biotreasury-collected-brightgreen)](https://biotreasury.rjmart.cn/#/tool?id=17825)  
 
@@ -523,8 +530,11 @@ All are optional.
 
 ## How to Cite TBtools
 [TBtools-II: A "One for All, All for One" Bioinformatics Platform for Biological Big-data Mining](https://www.cell.com/molecular-plant/fulltext/S1674-2052(23)00281-2)
+
 *Note the first version of TBtools is now retired.*
-TBtools: An Integrative Toolkit Developed for Interactive Analyses of Big Biological Data
+
+Chen C., Wu Y., Li J., Wang X., Zeng Z., Xu J., Liu Y., Feng J., Chen H., He Y., and Xia R. (2023). 
+TBtools-II: A "one for all, all for one" bioinformatics platform for biological big-data mining. Mol. Plant. 16, 1733–1742.
 
 ## Download
 
