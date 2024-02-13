@@ -1,8 +1,6 @@
 # TBtools-II
 
-[Click to Join in TBtools Groups - Slack](https://join.slack.com/t/w1689288812-1ht896372/shared_invite/zt-1z3epmlva-MXKRYrZ3VJxEIsJYpmSMZw)
-
-[Click to Join in TBtools Google Groups](https://groups.google.com/g/tbtools)
+[Click to Join in TBtools Groups on **Telegram**](https://t.me/joinchat/Q6WHOhWOlHHOkMgRGoN7nw)
 
 [Click to Download TBtools Installers](https://github.com/CJ-Chen/TBtools/releases)
 
